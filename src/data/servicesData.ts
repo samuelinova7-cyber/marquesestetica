@@ -31,7 +31,7 @@ export const servicesData: ServiceItem[] = [
     warranty: 'Garantia de 5 a 10 anos contra amarelamento e craquelamento',
     timeEstimate: '2 a 4 dias úteis',
     idealFor: 'Superesportivos, veículos recém-saídos da concessionária e motoristas de rodovia',
-    image: '/src/assets/images/service_ppf_installation_1793814173987.jpg',
+    image: '/images/service_ppf_installation_1793814173987.jpg',
     features: [
       'Autorregeneração de microrriscos com o calor do sol ou água quente',
       'Proteção contra pedriscos projetados por outros veículos em alta velocidade',
@@ -64,7 +64,7 @@ export const servicesData: ServiceItem[] = [
     warranty: 'Garantia técnica de 3 a 5 anos com certificado',
     timeEstimate: '1 a 2 dias úteis',
     idealFor: 'Quem busca brilho de showroom contínuo e facilidade máxima na lavagem',
-    image: '/src/assets/images/service_ceramic_coating_1793814174351.jpg',
+    image: '/images/service_ceramic_coating_1793814174351.jpg',
     features: [
       'Efeito hidrofóbico com escorrimento instantâneo de água e lama',
       'Aumento perceptível na dureza superficial da pintura (9H Pencil Hardness)',
@@ -97,7 +97,7 @@ export const servicesData: ServiceItem[] = [
     warranty: 'Verniz recuperado com nivelamento óptico impecável',
     timeEstimate: '1 a 3 dias úteis',
     idealFor: 'Veículos com swirls ("teias de aranha"), marcas circulares e pintura opaca',
-    image: '/src/assets/images/service_paint_correction_1793814175498.jpg',
+    image: '/images/service_paint_correction_1793814175498.jpg',
     features: [
       'Remoção de riscos superficiais, marcas de vassoura e esponjas abrasivas',
       'Eliminação completa de marcas de holograma e marcas de boina de polimentos antigos',
@@ -118,7 +118,7 @@ export const servicesData: ServiceItem[] = [
     warranty: 'Eliminação de 99,9% de ácaros, bactérias e odores',
     timeEstimate: '1 dia útil',
     idealFor: 'Preservação de interiores refinados, bancos de couro, alcantara e carpetes',
-    image: '/src/assets/images/workshop_studio_facility_1793814175901.jpg',
+    image: '/images/workshop_studio_facility_1793814175901.jpg',
     features: [
       'Nutrição de bancos de couro mantendo o toque sedoso e acabamento fosco original de fábrica',
       'Higienização de cintos de segurança, teto solar, dutos de ar-condicionado e carpetes',

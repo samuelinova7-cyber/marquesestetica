@@ -25,8 +25,8 @@ const cases: CaseStudy[] = [
     beforeDescription: 'Verniz opaco com teias de aranha intensas causadas por lavagens inadequadas em lava-rápidos comuns.',
     afterLabel: 'Depois: Nivelamento Óptico 9H',
     afterDescription: 'Reflexo puro sem distorções, profundidade de cor restaurada e proteção vitrificada contra novos riscos.',
-    beforeImage: '/src/assets/images/service_paint_correction_1793814175498.jpg',
-    afterImage: '/src/assets/images/hero_porsche_detailing_1793814173679.jpg',
+    beforeImage: '/images/service_paint_correction_1793814175498.jpg',
+    afterImage: '/images/hero_porsche_detailing_1793814173679.jpg',
     technique: 'Medição micrométrica com 3 etapas de corte, refino e lustro com compostos abrasivos alemães.',
   },
   {
@@ -38,8 +38,8 @@ const cases: CaseStudy[] = [
     beforeDescription: 'Vulnerável a impactos de pedriscos de rodovia, micro-batidas de portas e fezes ácidas de aves.',
     afterLabel: 'Depois: Película Invisível TPU',
     afterDescription: 'Barreira física de 200 microns que cicatriza riscos sozinha ao entrar em contato com o calor.',
-    beforeImage: '/src/assets/images/workshop_studio_facility_1793814175901.jpg',
-    afterImage: '/src/assets/images/service_ppf_installation_1793814173987.jpg',
+    beforeImage: '/images/workshop_studio_facility_1793814175901.jpg',
+    afterImage: '/images/service_ppf_installation_1793814173987.jpg',
     technique: 'Corte computadorizado por plotter específico por chassi, sem uso de lâminas ou estiletes na lataria.',
   },
   {
@@ -51,8 +51,8 @@ const cases: CaseStudy[] = [
     beforeDescription: 'Superfície com baixa tensão superficial retendo lama, fuligem e manchas de água (water spots).',
     afterLabel: 'Depois: Beading Hidrofóbico 115°',
     afterDescription: 'Gotas de água em esferas perfeitas que deslizam e levam toda a sujeira embora instantaneamente.',
-    beforeImage: '/src/assets/images/service_paint_correction_1793814175498.jpg',
-    afterImage: '/src/assets/images/service_ceramic_coating_1793814174351.jpg',
+    beforeImage: '/images/service_paint_correction_1793814175498.jpg',
+    afterImage: '/images/service_ceramic_coating_1793814174351.jpg',
     technique: 'Fusão molecular em microporos do verniz criando um escudo vítreo com repelência estática e química.',
   },
 ];

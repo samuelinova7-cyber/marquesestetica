@@ -56,7 +56,7 @@ export const StudioFacility: React.FC<StudioProps> = ({ onOpenQuoteModal }) => {
           <div className="lg:col-span-7 flex flex-col space-y-4">
             <div className="relative rounded-2xl overflow-hidden border border-slate-800 bg-slate-900 shadow-2xl h-[320px] sm:h-[400px]">
               <img
-                src="/src/assets/images/workshop_studio_facility_1793814175901.jpg"
+                src="/images/workshop_studio_facility_1793814175901.jpg"
                 alt="Instalações do Estúdio Marques Estética Automotiva"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover"
@@ -81,7 +81,7 @@ export const StudioFacility: React.FC<StudioProps> = ({ onOpenQuoteModal }) => {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div className="rounded-xl overflow-hidden border border-slate-800 h-44 relative bg-slate-900">
                 <img
-                  src="/src/assets/images/service_paint_correction_1793814175498.jpg"
+                  src="/images/service_paint_correction_1793814175498.jpg"
                   alt="Técnico especialista em polimento e correção de verniz"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
@@ -94,7 +94,7 @@ export const StudioFacility: React.FC<StudioProps> = ({ onOpenQuoteModal }) => {
 
               <div className="rounded-xl overflow-hidden border border-slate-800 h-44 relative bg-slate-900">
                 <img
-                  src="/src/assets/images/service_ppf_installation_1793814173987.jpg"
+                  src="/images/service_ppf_installation_1793814173987.jpg"
                   alt="Aplicação artesanal de película de proteção"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"

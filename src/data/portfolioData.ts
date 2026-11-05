@@ -21,7 +21,7 @@ export const portfolioData: PortfolioItem[] = [
     executionDays: '4 dias',
     yearModel: '2024 / Jet Black Metallic',
     protectionApplied: 'PPF TPU 200 Microns + Graphene 9H',
-    image: '/src/assets/images/hero_porsche_detailing_1793814173679.jpg',
+    image: '/images/hero_porsche_detailing_1793814173679.jpg',
     highlightBadge: 'Full Body Shield',
   },
   {
@@ -33,7 +33,7 @@ export const portfolioData: PortfolioItem[] = [
     executionDays: '3 dias',
     yearModel: '2023 / Carbon Black & Nero',
     protectionApplied: 'PPF TPU Self-Healing + Polish Stage 3',
-    image: '/src/assets/images/service_ppf_installation_1793814173987.jpg',
+    image: '/images/service_ppf_installation_1793814173987.jpg',
     highlightBadge: 'Track Pack Defense',
   },
   {
@@ -45,7 +45,7 @@ export const portfolioData: PortfolioItem[] = [
     executionDays: '2 dias',
     yearModel: '2024 / Isle of Man Green',
     protectionApplied: 'Ceramic Coating 9H Diamond (5 Anos)',
-    image: '/src/assets/images/service_ceramic_coating_1793814174351.jpg',
+    image: '/images/service_ceramic_coating_1793814174351.jpg',
     highlightBadge: 'Efeito Hidrofóbico 115°',
   },
   {
@@ -57,7 +57,7 @@ export const portfolioData: PortfolioItem[] = [
     executionDays: '3 dias',
     yearModel: '2023 / Nardo Grey',
     protectionApplied: 'Stage 2 Paint Correction + PPF Front',
-    image: '/src/assets/images/service_paint_correction_1793814175498.jpg',
+    image: '/images/service_paint_correction_1793814175498.jpg',
     highlightBadge: 'Brilho Espelhado',
   },
   {
@@ -69,7 +69,7 @@ export const portfolioData: PortfolioItem[] = [
     executionDays: '5 dias',
     yearModel: '2023 / Magno Graphite Grey',
     protectionApplied: 'PPF Satin Matte + Ceramic Pro Interior',
-    image: '/src/assets/images/workshop_studio_facility_1793814175901.jpg',
+    image: '/images/workshop_studio_facility_1793814175901.jpg',
     highlightBadge: 'Carbon Fiber Protection',
   },
 ];
